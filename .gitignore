@@ -1,0 +1,14 @@
+pycache/
+*.pyc 
+
+.ipynb_checkpoints/ 
+
+
+spark-warehouse/ 
+metastore_db/
+derby.log 
+test_output 
+
+.vscode/
+.idea/
+Thumbs.db
